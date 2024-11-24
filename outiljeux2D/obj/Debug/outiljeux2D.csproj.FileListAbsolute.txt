@@ -1,0 +1,11 @@
+C:\Users\sicha\OneDrive - CHARLES DE FOUCAULD\Bureau\projet_akend_slash\projet_akend_slash\outiljeux2D\bin\Debug\outiljeux2D.exe.config
+C:\Users\sicha\OneDrive - CHARLES DE FOUCAULD\Bureau\projet_akend_slash\projet_akend_slash\outiljeux2D\bin\Debug\outiljeux2D.exe
+C:\Users\sicha\OneDrive - CHARLES DE FOUCAULD\Bureau\projet_akend_slash\projet_akend_slash\outiljeux2D\bin\Debug\outiljeux2D.pdb
+C:\Users\sicha\OneDrive - CHARLES DE FOUCAULD\Bureau\projet_akend_slash\projet_akend_slash\outiljeux2D\obj\Debug\outiljeux2D.csproj.AssemblyReference.cache
+C:\Users\sicha\OneDrive - CHARLES DE FOUCAULD\Bureau\projet_akend_slash\projet_akend_slash\outiljeux2D\obj\Debug\outiljeux2D.csproj.SuggestedBindingRedirects.cache
+C:\Users\sicha\OneDrive - CHARLES DE FOUCAULD\Bureau\projet_akend_slash\projet_akend_slash\outiljeux2D\obj\Debug\outiljeux2D.Form1.resources
+C:\Users\sicha\OneDrive - CHARLES DE FOUCAULD\Bureau\projet_akend_slash\projet_akend_slash\outiljeux2D\obj\Debug\outiljeux2D.Properties.Resources.resources
+C:\Users\sicha\OneDrive - CHARLES DE FOUCAULD\Bureau\projet_akend_slash\projet_akend_slash\outiljeux2D\obj\Debug\outiljeux2D.csproj.GenerateResource.cache
+C:\Users\sicha\OneDrive - CHARLES DE FOUCAULD\Bureau\projet_akend_slash\projet_akend_slash\outiljeux2D\obj\Debug\outiljeux2D.csproj.CoreCompileInputs.cache
+C:\Users\sicha\OneDrive - CHARLES DE FOUCAULD\Bureau\projet_akend_slash\projet_akend_slash\outiljeux2D\obj\Debug\outiljeux2D.exe
+C:\Users\sicha\OneDrive - CHARLES DE FOUCAULD\Bureau\projet_akend_slash\projet_akend_slash\outiljeux2D\obj\Debug\outiljeux2D.pdb
